@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/hadv/eb-echo-docker)](https://goreportcard.com/report/github.com/hadv/eb-echo-docker)
+[![Build Status](https://travis-ci.org/hadv/eb-echo-docker.svg?branch=master)](https://travis-ci.org/hadv/eb-echo-docker) [![Go Report Card](https://goreportcard.com/badge/github.com/hadv/eb-echo-docker)](https://goreportcard.com/report/github.com/hadv/eb-echo-docker)
 
 # eb-echo-docker
 
