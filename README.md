@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/hadv/eb-echo-docker)](https://goreportcard.com/report/github.com/hadv/eb-echo-docker)
+
 # eb-echo-docker
 
 deploy golang echo rest api to aws elastic beanstalk using docker
